@@ -3,7 +3,7 @@ https://gloriousfury.github.io/datavisualizationlessons/
 
 
 
-<iframe src="https://public.tableau.com/views/CTSchoolDistrictsbyIncomeandGradeLevels2009-13/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/OccupationsofDataVisualizationStudents/OccupationsofDataVisualizationStudents?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
 
 In this chart, we can see most of the students taking the Data Vusualization students course have their careers in Information Technology, the second highest being university students who are building competencies in Data visualization
 
