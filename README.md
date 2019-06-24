@@ -3,7 +3,7 @@ https://gloriousfury.github.io/datavisualizationlessons/
 
 
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="<iframe src="https://public.tableau.com/views/OccupationsofDataVisualizationStudents/OccupationsofDataVisualizationStudents?:showVizHome=no&:embed=true" width="90%" height="500"> </iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="<iframe src="https://public.tableau.com/views/OccupationsofDataVisualizationStudents/OccupationsofDataVisualizationStudents?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
 
 
 
